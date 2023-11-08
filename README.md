@@ -6,10 +6,15 @@ The solution involves leveraging the power of natural language processing (NLP) 
 
 # Dataset Description
 Encounter ID - Numeric Unique identifier of an encounter
+
 Patient number - Numeric Unique identifier of a patient 
+
 Race Nominal Values- Caucasian, Asian, African American, Hispanic, and other 
+
 Gender Nominal Values- male, female, and unknown/invalid 
+
 Age- Nominal Grouped in 10-year intervals: [0, 10), [10, 20), ..., [90, 100) 
+
 Weight Numeric- Weight in pounds. 
 Admission type- Nominal Integer identifier corresponding to 9 distinct values, for example, emergency, urgent,
 elective, newborn, and not available 
