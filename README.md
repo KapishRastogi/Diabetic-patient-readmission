@@ -1,2 +1,2 @@
 # Diabetic-patient-readmission
-Diabetic Patient Readmission 
+Prediction of readmission for patients after they are discharged from the hospital.
